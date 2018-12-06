@@ -1,0 +1,112 @@
+body {
+  font-family: 'Fira Sans', sans-serif;
+  background-color:#191D32;
+  color:white;
+}
+
+a{
+  text-decoration: none;
+  color:#9197AE;
+}
+
+#site-title {
+  text-align:center;
+  font-size: 3em;
+  font-weight:200;
+  margin-bottom:0.1em;
+}
+
+#site-title a{
+  color:white;
+  border-bottom:1px white solid;
+}
+
+.tagline{
+  font-weight:100;
+  text-align:center;
+  display: block;
+  margin-bottom:1em;
+}
+
+#main-content {
+  max-width:40em;
+  margin:auto;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-weight:200;
+}
+
+.top{
+  padding:0 1em;
+}
+
+nav{
+  text-align:center;
+}
+
+nav a{
+  padding: 0 20px;
+  font-size:18px;
+}
+
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+
+.posts{
+  padding:1em;
+  margin-top:2em;
+}
+
+.post{
+  margin-bottom:6em;
+}
+
+.post-title{
+  margin-bottom:0;
+}
+
+.post-date{
+  font-weight:100;
+}
+
+
+.pagination{
+  text-align: center;
+}
+
+.pagination-item{
+  padding:16px;
+}
+
+span.pagination-item {
+  visibility:hidden;
+}
+
+img{
+  width:100%;
+  filter:brightness(75%);
+}
+
+@media screen and (min-width: 650px) {
+  #site-title {
+    text-align:left;
+  }
+  nav {
+    float:right;
+  }
+  .tagline{
+    text-align:left;
+  }
+  
+}
