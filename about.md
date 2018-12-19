@@ -13,6 +13,6 @@ Shoots with..
 + Pentax 6x7
 + Fuji X-Pro2
 
-![](/public/images/me.jpg)
+![](/public/images/me-1024.jpg)
 
 Looking for [old Jono](https://old.jonoshields.com)? 
