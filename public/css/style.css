@@ -1,14 +1,15 @@
 body {
   font-family: 'Fira Sans', sans-serif;
-  background-color:#191D32;
-  color:white;
+  /* background-color:#191D32;
+  color:white; */
   box-sizing: border-box;
   margin:0;
+  font-size: 1.2em;
 }
 
 a{
   text-decoration: none;
-  color:#9197AE;
+  color:rgb(58, 63, 82);
 }
 
 #site-title {
@@ -19,8 +20,8 @@ a{
 }
 
 #site-title a{
-  color:white;
-  border-bottom:1px white solid;
+  /* color:white; */
+  border-bottom:1px black solid;
 }
 
 .tagline{
@@ -31,7 +32,7 @@ a{
 }
 
 #main-content {
-  max-width:40em;
+  max-width:36em;
   margin:auto;
 }
 
@@ -98,7 +99,9 @@ span.pagination-item {
 
 img{
   width:100%;
-  filter:brightness(75%);
+  margin: 3em auto 0 auto;
+  /* filter:brightness(75%); */
+  /* border : 5px white solid; */
 }
 
 .gallery-container {
@@ -123,12 +126,12 @@ img{
 }
 
 p img{
-  width: 100vw;
+  /* width: 100vw;
   position: relative;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
-  margin-right: -50vw;
+  margin-right: -50vw; */
 }
 
 @media screen and (min-width: 600px) {

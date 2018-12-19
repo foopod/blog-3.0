@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            'Jono Shields'
-tagline:          'Amateur Protog'
-description:      'Amateur Protog'
+tagline:          'Learning Photography'
+description:      'Jono learns photography'
 url:              jonoshields.com
 baseurl:          ''
 
@@ -16,12 +16,8 @@ author:
   name:           'Jono Shields'
 
 logo : /public/icon.png
-
-collections:
-  images:
-    output: true
   
-gems: ['jekyll-paginate-v2', 'jekyll-seo-tag', 'jekyll-sitemap']
+plugins: ['jekyll-paginate-v2', 'jekyll-seo-tag', 'jekyll-sitemap']
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
