@@ -17,7 +17,19 @@ author:
 
 logo : /public/icon.png
   
-plugins: ['jekyll-paginate-v2', 'jekyll-seo-tag', 'jekyll-sitemap']
+plugins: ['jekyll-paginate-v2', 'jekyll-seo-tag', 'jekyll-sitemap', 'jekyll-imagemagick']
+
+imagemagick:
+  enabled: true
+  widths:
+    - 1024
+  input_directories:
+    - public/images
+    - public/images/thumbs
+  input_formats:
+    - ".jpg"
+  output_formats:
+    jpg: "-quality 50% -define jpeg:dct-method=float -strip -interlace Plane"
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
