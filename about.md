@@ -14,3 +14,5 @@ Shoots with..
 + Fuji X-Pro2
 
 ![](/public/images/me.jpg)
+
+Looking for [old Jono](https://old.jonoshields.com)? 
