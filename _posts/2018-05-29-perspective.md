@@ -7,11 +7,11 @@ tags: []
 description: Perspective is one of your main tools as a photographer. It's your opportunity to show the world what you see. 
 ---
 
-I carry my camera everywhere with me now. Always on the lookout for interesting ways to look at things. The same things I look at everyday.
+My camera is always by my side these days. And I'm always on the lookout for interesting ways to look at things. The same things I look at everyday.
 
 ![](/public/images/2018-05-29-1-1024.jpg)
 
-The photo above is from a cafe called Rabbit. I main seating area is lofted above the kitchen, but I never once had a reason to lean over the edge and have a look down. 
+The photo above is from a cafe called Rabbit. The main seating area is lofted above the kitchen, but I never once had a reason to lean over the edge and have a look down. 
 
 But now I do.
 
