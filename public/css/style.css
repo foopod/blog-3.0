@@ -1,7 +1,5 @@
 body {
   font-family: 'Fira Sans', sans-serif;
-  /* background-color:#191D32;
-  color:white; */
   box-sizing: border-box;
   margin:0;
   font-size: 1.2em;
@@ -9,7 +7,7 @@ body {
 
 a{
   text-decoration: none;
-  color:rgb(58, 63, 82);
+  color:rgb(64, 80, 145);
 }
 
 #site-title {
@@ -20,8 +18,7 @@ a{
 }
 
 #site-title a{
-  /* color:white; */
-  border-bottom:1px black solid;
+  color:rgb(64, 80, 145);
 }
 
 .tagline{
@@ -97,11 +94,9 @@ span.pagination-item {
   visibility:hidden;
 }
 
-img{
+p img{
   width:100%;
   margin: 3em auto 0 auto;
-  /* filter:brightness(75%); */
-  /* border : 5px white solid; */
 }
 
 .gallery-container {
@@ -141,7 +136,11 @@ p img{
     flex-direction: row;
   }
   .gallery-item {
-    width: 50%;
+    width: 33%;
+  }
+  .image-description span{
+    font-size: 0.9em;
+    font-weight: 200;
   }
 }
 
