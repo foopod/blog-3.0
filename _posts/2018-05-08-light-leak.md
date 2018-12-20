@@ -13,6 +13,6 @@ It turns out the camera I purchased has a light leak😔. Which means that all t
 
 ![](/public/images/2018-05-08-2-1024.jpg)
 
-Not pro at photoshop enough to fix this (yet). 
+I'm not pro enough at photoshop to fix this (yet). 
 
-But I figured out how to desaturate the image and play with the brightness & contrast to salvage some of the photos.
+But I figured out how to salvage some of the photos. First by desaturating and then playing with the brightness & contrast.

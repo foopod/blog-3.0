@@ -19,4 +19,4 @@ Then using photoshop I used the Eyedropper tool inside Image > Adjustments > Lev
 
 ![](/public/images/2018-05-14-3-1024.jpg)
 
-And lastly the image inverted.
+Then just invert the image and BAM!
