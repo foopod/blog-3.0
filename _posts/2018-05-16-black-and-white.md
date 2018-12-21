@@ -11,11 +11,11 @@ I decided to have a jam with black & white (b&w) film once I fixed up the light 
 
 Lots of research later and I discovered that most people recommend overexposing the film by a stop. This adds contrast to the image (we will learn why they need the extra contrast later). 
 
-![](/public/images/2018-05-16-1-1024.jpg)
+![A woman in a cafe](/public/images/2018-05-16-1-1024.jpg)
 
 This first shot came out awesome. I love the expression on my mum's face as she stares into the distance waiting for that first cup of coffee to arrive.
 
-![](/public/images/2018-05-16-2-1024.jpg)
+![A woman standing in front of a path, trees and grass.](/public/images/2018-05-16-2-1024.jpg)
 
 This second one though, is a little disappointing. Athena was in a joyous yellow dress and in the background a red stone path weaves through the green grass. There were plenty of contrasting colours to separate Athena from the background. But alas, in b&w her body disappears into the grass.
 
