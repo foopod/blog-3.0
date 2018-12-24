@@ -29,7 +29,7 @@ imagemagick:
   input_formats:
     - ".jpg"
   output_formats:
-    jpg: "-quality 50% -define jpeg:dct-method=float -strip -interlace Plane"
+    jpg: "-quality 70% -define jpeg:dct-method=float -strip -interlace Plane"
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
