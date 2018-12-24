@@ -2,7 +2,7 @@
 layout: post
 title: Getting into Portraits with the Pentax 6x7
 date: 2018-10-23
-thumb: 2018-10-23-1024.jpg
+thumb: 2018-10-23-512.jpg
 tags: []
 description: Taking Portraits with medium format.
 ---

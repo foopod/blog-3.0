@@ -2,7 +2,7 @@
 layout: post
 title: A Photographer's Perspective
 date: 2018-05-29
-thumb: 2018-05-29-1024.jpg
+thumb: 2018-05-29-512.jpg
 tags: []
 description: Perspective is one of your main tools as a photographer. It's your opportunity to show the world what you see. 
 ---

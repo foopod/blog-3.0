@@ -2,7 +2,7 @@
 layout: post
 title: Reversing Negatives
 date: 2018-05-14
-thumb: 2018-05-14-1024.jpg
+thumb: 2018-05-14-512.jpg
 tags: []
 description: I learn how to invert a film negative
 ---

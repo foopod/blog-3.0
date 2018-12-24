@@ -2,7 +2,7 @@
 layout: post
 title: Early Morning Photography
 date: 2018-10-01
-thumb: 2018-10-01-1024.jpg
+thumb: 2018-10-01-512.jpg
 tags: []
 description: Getting up at dawn to walk around a new city is always an adventure.
 ---

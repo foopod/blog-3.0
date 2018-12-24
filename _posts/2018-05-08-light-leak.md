@@ -2,7 +2,7 @@
 layout: post
 title: Light Leak
 date: 2018-05-08
-thumb: 2018-05-08-1024.jpg
+thumb: 2018-05-08-512.jpg
 tags: []
 description: Buys second hand film camera, what is up with these photos.
 ---

@@ -23,6 +23,7 @@ imagemagick:
   enabled: true
   widths:
     - 1024
+    - 512
   input_directories:
     - public/images
     - public/images/thumbs

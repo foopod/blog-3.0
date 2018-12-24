@@ -2,7 +2,7 @@
 layout: post
 title: Shooting Black & White
 date: 2018-05-16
-thumb: 2018-05-16-1024.jpg
+thumb: 2018-05-16-512.jpg
 tags: []
 description: Jono learns about the difficulties of shooting in Black & White
 ---

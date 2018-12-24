@@ -2,7 +2,7 @@
 layout: post
 title: Leading Lines
 date: 2018-05-23
-thumb: 2018-05-23-1024.jpg
+thumb: 2018-05-23-512.jpg
 tags: []
 description: What is a leading lines? Why does it make your photos more interesting?
 ---
