@@ -10,7 +10,7 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: uploads
+upload_dir: public
 public_path: "/_site/public"
 front_matter_path: ''
 use_front_matter_path: false
