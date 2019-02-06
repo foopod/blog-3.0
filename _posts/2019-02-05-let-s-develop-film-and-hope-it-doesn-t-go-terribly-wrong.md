@@ -2,7 +2,7 @@
 layout: post
 title: Let's Develop Film and hope it doesn't go terribly wrong
 description: Jono's first attempt to develop film
-date: 2019-02-06
+date: 2019-02-06 00:00:00 +0000
 
 ---
 Lately photography (especially analog stuff) has taken a bit of a back seat.
@@ -28,11 +28,11 @@ The recipe I used is straight out of the [Caffenol Bible]().
 
 1. The ingredients above are for 1 litre. So I used half the amount to make a batch of 500ml for my development tank.
 2. They also recommend to make the solution in two parts, one for the soda and another for the coffee. This is so that you can see when both are completely dissolved (the darkness of the coffee powder makes it really hard to see the soda).
-
-   ![](/public/images/2019-02-06-3.jpg)
 3. The bible recommends a 15 minute develop time, 10 inversions in the first minute, 3 every minute after.
 4. Then stop and fix normally. I just rinsed with water for my stop bath (I saw others do this). And I used Ilford Rapid Fixer at a ration of 1+4 to fix the film.
 5. Then lots of rinsing and hanging up in my shower to dry.
+
+![](/public/images/2019-02-06-3.jpg)
 
 The results?
 
