@@ -19,3 +19,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- _posts/let-s-develop-film-and-hope-it-doesn-t-go-terribly-wrong.md
