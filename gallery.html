@@ -2,17 +2,17 @@
 layout: default
 title: Gallery
 description: 
-pagination: 
+pagination:
   enabled: true
----
 
+---
 <div class="gallery-container">
   <div class="grid">
   {% for post in site.posts %}
       <div class="gallery-item">
         <div class="image-container">
           <a href="{{post.url}}">
-            <img src="/public/images/thumbs/{{post.thumb}}"/>
+            <img src="/public/images/thumbs/{{post.date}}-512.jpg"/>
             <div class="image-description">
               <span>{{ post.title }}</span>
             </div>
