@@ -2,7 +2,7 @@
 layout: post
 title: Let's Develop Film and hope it doesn't go terribly wrong
 description: Jono's first attempt to develop film
-date: 2019-02-05 12:59:00 +0000
+date: 2019-02-06
 
 ---
 Lately photography (especially analog stuff) has taken a bit of a back seat.
