@@ -1,38 +1,35 @@
-<!-- forestryio: ignore; forestryio: admin -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="robots" content="noindex" />
-    <title>Admin</title>
-    <meta name="description" content=" " />
-    <meta name="author" content=" " />
-    <meta name="HandheldFriendly" content="true" />
-    <meta name="MobileOptimized" content="320" />
-    <!-- Use maximum-scale and user-scalable at your own risk. It disables pinch/zoom. Think about usability/accessibility before including.-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+---
+layout: default
+title: Blog
+description: 
+pagination: 
+  enabled: true
+---
 
-    <link rel="stylesheet" href="https://local.forestry.io/main.css" />
-
-    <!-- Google font -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-
-    <!-- Fort awesome icon kit -->
-    <script src="https://use.fortawesome.com/b6f38602.js"></script>
-
-</head>
-<body>
-<div id="app">
-
+<div class="posts">
+  {% for post in paginator.posts %}
+    <div class="post">
+      <h1 class="post-title">{{ post.title }}</h1>
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+      {{ post.content }}
+    </div>
+  {% endfor %}
 </div>
-<script id="admin-config-script" type="text/javascript">
-    var env = {
-        siteId: "mp7dxuw0doagzg",
-        local: false
-    };
-</script>
-<script type="application/javascript" src="https://local.forestry.io/forestry.min.js"></script>
 
-</body>
-</html>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.url }}/blog/page/{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.url }}/blog">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.url }}/blog/page/{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
