@@ -45,3 +45,5 @@ Here are two of the three pictures...
 ![](/public/images/2019-02-06-5.jpg)
 
 Yeah. We hella cute.
+
+Overall I am really happy with the results, especially considering how many mistakes I made. Very keen to have another try with some black & white film that has been exposed properly :D
