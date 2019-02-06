@@ -1,0 +1,21 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: layout
+  name: layout
+  config:
+    required: false
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
