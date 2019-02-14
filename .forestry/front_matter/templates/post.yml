@@ -20,5 +20,5 @@ fields:
   name: date
   label: date
 pages:
-- hire-me.md
+- hireme.md
 - _posts/2019-02-05-let-s-develop-film-and-hope-it-doesn-t-go-terribly-wrong.md
