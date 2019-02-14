@@ -5,6 +5,8 @@ description: You should definitely consider this
 date: ''
 
 ---
+I pride myself on being capable in any programming language. I am able to grow quickly in any direction. I encourage others to learn and share their learnings.
+
 ### Skills
 
 * Facilitation
@@ -19,17 +21,16 @@ date: ''
 
 ### History
 
-* 2 years - Developer (Oracle E-Commerce - Full Stack)
-* 1 year - Scrum Master
-* 1 year - Agile Coach
-* 1 year - Dev OPs Engineer
+* 2 yrs - Agile Developer @ VodafoneNZ (Oracle E-Commerce - Full Stack)
+* 1 yrs - Scrum Master @ VodafoneNZ
+* 1 yrs - Agile Coach @ VodafoneNZ
+* 1 yrs - Dev OPs Engineer @ VodafoneNZ
 
 ### Extra
 
 * I volunteer at CodeClub teaching programming to 9-13 year olds.
 * Ask me about my experience facilitating hackathons.
-* I am part of a small community makerspace called Hackland.
-* I am a photography enthusiast.
-* Check out my blog... jonoshields.com
+* I am a maker, and part of a small community makerspace called Hackland.
+* I am a film photography enthusiast and develop/scan/print my own photos.
 
 People are at their best when they are doing what they love, and learning is my favourite thing to do. What do you love doing?
