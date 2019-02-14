@@ -21,10 +21,10 @@ I pride myself on being capable in any programming language. I am able to grow q
 
 ### History
 
-* 2 yrs - Agile Developer @ VodafoneNZ (Oracle E-Commerce - Full Stack)
-* 1 yrs - Scrum Master @ VodafoneNZ
-* 1 yrs - Agile Coach @ VodafoneNZ
-* 1 yrs - Dev OPs Engineer @ VodafoneNZ
+* 2014 - Agile Developer @ VodafoneNZ (Oracle E-Commerce - Full Stack)
+* 2016 - Scrum Master @ VodafoneNZ
+* 2017 - Agile Coach @ VodafoneNZ
+* 2018 - Dev OPs Engineer @ VodafoneNZ
 
 ### Extra
 
