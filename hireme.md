@@ -5,13 +5,6 @@ description: You should definitely consider this
 date: ''
 
 ---
-### History
-
-* 2 years - Developer (Oracle E-Commerce - Full Stack)
-* 1 year - Scrum Master
-* 1 year - Agile Coach
-* 1 year - Dev OPs Engineer
-
 ### Skills
 
 * Facilitation
@@ -23,6 +16,13 @@ date: ''
 * Automated Testing (Selenium, Jest, REST)
 * Static Site Generators (and Optimization, mainly with Jekyll)
 * CI/CD (Linux administration, Docker, Jenkins, etc.)
+
+### History
+
+* 2 years - Developer (Oracle E-Commerce - Full Stack)
+* 1 year - Scrum Master
+* 1 year - Agile Coach
+* 1 year - Dev OPs Engineer
 
 ### Extra
 
