@@ -5,11 +5,7 @@ description: You should definitely consider this
 date: ''
 
 ---
-Jono Shields
-
-People are at their best when they are doing what they love, and learning is my favourite thing to do. What do you love doing?
-
-History
+\###History
 
 \+ 2 years - Developer (Oracle E-Commerce - Full Stack)
 
@@ -19,7 +15,7 @@ History
 
 \+ 1 year - Dev OPs Engineer
 
-Skills
+\###Skills
 
 \- Facilitation
 
@@ -39,7 +35,7 @@ Skills
 
 \- CI/CD (Linux administration, Docker, Jenkins, etc.)
 
-Extra
+\###Extra
 
 \+ I volunteer at CodeClub teaching programming to 9-13 year olds.
 
@@ -50,3 +46,5 @@ Extra
 \+ I am a photography enthusiast.
 
 \+ Check out my blog... jonoshields.com
+
+People are at their best when they are doing what they love, and learning is my favourite thing to do. What do you love doing?
