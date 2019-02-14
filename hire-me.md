@@ -3,7 +3,6 @@ layout: page
 title: Hire Me
 description: You should definitely consider this
 date: ''
-published: false
 
 ---
 Jono Shields
