@@ -1,0 +1,16 @@
+---
+layout: post
+title: Using the out of box AI Character Controller
+date: '2016-10-04T05:10:07+13:00'
+tags:
+- Unity3d
+- AICharacterControl
+- AICharacterController
+- NavMesh
+- AI
+tumblr_url: https:blog.jono.tech/post/151329128880/using-the-out-of-box-ai-character-controller
+tagline: Unity3d
+---
+<p>I have been thinking about making a game lately that features an AI robot character. But this morning I had the idea to reverse the roles.</p><p>Long story short here is my experience using the AI Controller in Unity. Have a quick look at the finished product <a href="https://www.youtube.com/watch?v=RvhoRRkUuT8">here</a>.</p>
+
+<p>The drone follows me uses the <code>AICharacterControl.cs</code> class provided in the Unity Standard Assets. And it’s pretty easy to get it set up.</p><p>Drag the <code>AIThirdPersonController.prefab</code> into your scene. I swapped out the Ethan model for a free drone asset that I found.</p><p>Piece of cake right? All we do is add a target for our AI to follow or move towards.</p><figure data-orig-width="692" data-orig-height="110" class="tmblr-full"><img src="/public/images/tumblr/tumblr_inline_oeiloiYgPy1qil7jn_540.png" alt="image" data-orig-width="692" data-orig-height="110"/></figure><p>Not quite. I got the error </p><p><code>"GetRemainingDistance" can only be called on an active agent that has been placed on a NavMesh</code>. </p><p>Don’t know what a NavMesh is? I certainly didn’t.</p><p>A NavMesh is the approximation of walkable surfaces of a level. Not so important for a player, but incredibly useful for an AI to help it from falling down holes or getting stuck. They will look something like this&hellip;</p><figure data-orig-width="1246" data-orig-height="808" class="tmblr-full"><img src="/public/images/tumblr/tumblr_inline_oeilp5urJk1qil7jn_540.png" alt="image" data-orig-width="1246" data-orig-height="808"/></figure><p>Luckily Unity has got a pretty easy to use tool to help you generate this based on any gameobjects you have in your scene.<br/></p><p><a href="https://docs.unity3d.com/Manual/nav-BuildingNavMesh.html" target="_blank">In the Docs there are some instructions</a> that got me up and running pretty quick.</p><p>For consistency set up your NavMesh Agent’s radius, height and base offset before you start on the NavMesh. Make sure you use those values in the tool when get to baking the mesh.</p><p>I had it easy in that a drone can pretty much go anywhere, you might need to be stricter depending on your character.</p><p>Your AI character should now be moving around all on its own.</p><p>I spent a good half hour tweaking the steering settings till I found something I was happy with.</p><figure data-orig-width="556" data-orig-height="234" class="tmblr-full"><img src="/public/images/tumblr/tumblr_inline_oeimfeytD41qil7jn_540.png" alt="image" data-orig-width="556" data-orig-height="234"/></figure><p>Now it is down to you to take it as far as you need. Unity NavMeshes use A* to calculate the shortest path. It also allows you to modify the NavMesh with different types of layer masks and apply costs to each mask. This is how you would make your AI avoid the water if it would slow them down.</p><p>Pretty damn cool stuff :D</p>

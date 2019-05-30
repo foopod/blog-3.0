@@ -16,6 +16,10 @@ author:
   name:           'Jono Shields'
 
 logo : /public/icon.png
+
+collections:
+  notes:
+    output: true
   
 plugins: ['jekyll-paginate-v2', 'jekyll-seo-tag', 'jekyll-sitemap', 'jekyll-imagemagick']
 
