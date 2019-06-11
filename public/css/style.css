@@ -139,6 +139,10 @@ p img{
   margin-right: -50vw; */
 }
 
+.highlighter-rouge{
+    overflow: auto;
+}
+
 @media screen and (min-width: 600px) {
   .grid {
     display: flex;
