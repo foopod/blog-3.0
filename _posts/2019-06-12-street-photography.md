@@ -3,6 +3,7 @@ layout: post
 title: How to do street photography?
 description: Jono's gets into Street Photography
 date: 2019-06-12
+
 ---
 
 Street Photography. It's not that scary.
