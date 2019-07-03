@@ -45,3 +45,5 @@ Or you can take your photos discretely
 There is one rule though. And this is important...
 
 HAVE FUN!
+
+In all seriousness though, I think I neededed this when I first started doing street photography. It is nice to think about what you can shoot to help build your confidence and get to where you want to go. You have to start somewhere.
