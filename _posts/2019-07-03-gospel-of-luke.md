@@ -57,8 +57,8 @@ The idea was that I would take two series of photographs, the first depicting wo
 <br>
 <br>
 
-This was my first time doing any proper portraiture work. To be honest this was the closest thing I have ever had to a proper photography gig. So it was super daunting. But it was also lovely working with everyone and I got to meet a lot really cool people.
+This was my first time doing any proper portraiture work. To be honest this was the closest thing I have ever had to a proper photography gig. It was daunting. But it was also lovely working with everyone and I got to meet a lot of cool people.
 
-This experience has been different to all my other photography experiences. Normally I take photos for me, because I want to and because I find the subject interesting. This was not that. I'm not sure how to feel about it actually.
+This has been different to my other photography experiences. Normally I take photos for me, because I want to and because I find the subject interesting. I am not saying the subjects or the project wasn't interesting, because it was. But it was a differently feeling, its hard to describe.
 
 I understand that this is how people make a living from photography. But perhaps I'm more content to just do my own thing. At least for now.
