@@ -2,7 +2,7 @@
 layout: post
 title: Learning About Me via Photography
 description: Learning About Me via Photography
-date: 2019-06-30
+date: 2019-07-03
 
 ---
 
