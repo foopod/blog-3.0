@@ -12,6 +12,10 @@ He is studying Theology at St Johns and wanted to highlight the role of women in
 
 I am not religious in the slightest, but I liked the idea as most texts of this age downplay the impact of female characters.
 
+We met at St Matthews to talk about it and plan each of the shots on location. And wow, what a beautiful and interesting place to take these photos.
+
+![](/public/images/luke-07-1024.jpg)
+
 The idea was that I would take two series of photographs, the first depicting women as they were seen in the Gospel of Luke. And the second series to recognise women that continue to or are about to undertake a role of service today.
 
 
