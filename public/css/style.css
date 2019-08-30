@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   box-sizing: border-box;
   margin:0;
-  font-size: 1.2em;
+  font-size: 18px;
   line-height: 1.5;
 }
 
@@ -14,7 +14,7 @@ a{
 #site-title {
   text-align:center;
   font-weight:200;
-  margin-bottom:0.1em;
+  margin-top:0.2em;
   font-size: 4rem;
   letter-spacing: -4px;
   text-rendering: optimizeLegibility;
@@ -150,6 +150,9 @@ p img{
 }
 
 @media screen and (min-width: 600px) {
+  body {
+    font-size:22px;	  
+  }
   .grid {
     display: flex;
     flex-wrap: wrap;
