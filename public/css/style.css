@@ -16,6 +16,7 @@ a{
   margin-bottom:0.1em;
   font-size: 4rem;
   letter-spacing: -4px;
+  text-rendering: optimizeLegibility;
 }
 
 #site-title a{
@@ -36,7 +37,10 @@ a{
 }
 
 h1,h2,h3,h4,h5,h6{
-  font-weight:200;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: .5rem;
+  text-rendering: optimizeLegibility;
 }
 
 .top{
