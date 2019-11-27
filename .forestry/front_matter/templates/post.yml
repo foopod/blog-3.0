@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-is_partial: false
 fields:
 - type: text
   label: layout
@@ -20,5 +19,6 @@ fields:
   name: date
   label: date
 pages:
+- _posts/using-markov-chains-to-generate-president-trump-s-next-tweet.md
 - hireme.md
 - _posts/2019-02-05-let-s-develop-film-and-hope-it-doesn-t-go-terribly-wrong.md
