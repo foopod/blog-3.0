@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to do street photography?
-description: Jono's gets into Street Photography
+description: Jono explores what it means to take street photos
 date: 2019-06-11
 
 ---

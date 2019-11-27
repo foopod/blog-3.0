@@ -4,7 +4,7 @@ title: A Photographer's Perspective
 date: 2018-05-29
 thumb: 2018-05-29-512.jpg
 tags: []
-description: Perspective is one of your main tools as a photographer. It's your opportunity to show the world what you see. 
+description: Perspective is one of your main tools as a photographer. It's your opportunity to show the world what you see
 ---
 
 My camera is always by my side these days. And I'm always on the lookout for interesting ways to look at things. The same things I look at everyday.

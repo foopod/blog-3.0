@@ -4,7 +4,7 @@ title: Early Morning Photography
 date: 2018-10-01
 thumb: 2018-10-01-512.jpg
 tags: []
-description: Getting up at dawn to walk around a new city is always an adventure.
+description: Getting up at dawn to walk around a new city is always an adventure
 ---
 
 I'm a morning a person. Every day while I have been in Christchurch for the last two weeks I have been up at dawn, exploring the city in the hours that I can before I have to go to work.

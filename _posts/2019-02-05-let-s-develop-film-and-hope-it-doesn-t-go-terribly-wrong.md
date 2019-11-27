@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Let's Develop Film and hope it doesn't go terribly wrong
-description: Jono's first attempt to develop film
+title: Jono's first attempt to develop film
+description: Let's Develop Film and hope it doesn't go terribly wrong
 date: 2019-02-06 00:00:00 +0000
 
 ---

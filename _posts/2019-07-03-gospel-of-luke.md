@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learning About Me via Photography
-description: Learning About Me via Photography
+title: Learning About Me
+description: My first photo gig, an interesting experience
 date: 2019-07-03
 
 ---
