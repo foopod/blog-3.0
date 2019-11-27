@@ -11,6 +11,12 @@ a{
   color:rgb(64, 80, 145);
 }
 
+blockquote{
+  border-left: #ddd 5px solid;
+  padding-left: 10px;
+  margin-left:20px;
+}
+
 #site-title {
   text-align:center;
   font-weight:200;
@@ -91,6 +97,11 @@ nav a{
 
 .post-title{
   margin-bottom:0;
+}
+
+.post-description{
+  font-size: 0.9em;
+  color:#555;
 }
 
 .post-date{
