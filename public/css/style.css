@@ -164,6 +164,13 @@ p img{
   body {
     font-size:22px;	  
   }
+  #site-title{
+    font-size:5rem;
+    
+  }
+  nav a{
+    font-size: 1.5rem;
+  }
   .grid {
     display: flex;
     flex-wrap: wrap;
@@ -179,16 +186,6 @@ p img{
 }
 
 @media screen and (min-width: 690px) {
-  #site-title {
-    text-align:left;
-  }
-  nav {
-    text-align:right;
-  }
-  .tagline{
-    text-align:left;
-  }
-
   .post img{
     margin-left: 0;
     margin-right: 0;
