@@ -13,3 +13,6 @@ gem 'jekyll-sitemap', '~> 1.4'
 gem 'webrick', '~> 1.7'  # Required for Ruby 3.x
 gem 'csv', '~> 3.2'      # Required for Ruby 3.x
 gem 'base64', '~> 0.1'   # Required for Ruby 3.x
+
+gem 'ffi', '~> 1.16'     # Updated to current stable version
+gem 'jekyll-imagemagick', '~> 1.4'
